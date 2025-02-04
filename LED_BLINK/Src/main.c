@@ -9,5 +9,6 @@ int main(void)
 		led_on();
 		led_delay();
 		led_off();
+		led_delay();
 	}
 }
