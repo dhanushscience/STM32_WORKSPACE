@@ -27,5 +27,5 @@ void led_off(void)
 
 void led_delay(void)
 {
-	for(int x=0; x<180000000; x++);
+	for(int x=0; x<1800000; x++);
 }
