@@ -1,0 +1,4 @@
+../Src/gpio.c:9:6:gpio_init	1
+../Src/gpio.c:26:6:delay	2
+../Src/gpio.c:32:6:led	1
+../Src/gpio.c:38:6:btn_state	2
